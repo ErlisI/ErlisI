@@ -1,9 +1,6 @@
-### Hi there 👋 welcome to my GitHub 👨‍💻
+## Hi there 👋 welcome to my GitHub 👨‍💻
 
-# A little about me
-I am a Computer Science student
-
-# Languages and Tools
+### Languages and Tools
   <div>
     <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/git/white" />
@@ -18,9 +15,10 @@ I am a Computer Science student
     <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/white" />
   </div>
 
-
-# GitHub Stats 📈
+---
+### GitHub Stats 📈
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlisi&theme=dark&show_icons=true&count_private=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlisi&theme=dark&layout=donut&langs_count=8&hide=html,css,shaderlab&count_private=true)]
 
+--- 
 # [Daily Stoic Quote](https://stoic-quotes.com)
