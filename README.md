@@ -1,6 +1,6 @@
-## Hi there 👋 welcome to my GitHub 👨‍💻
+## Hi There 👋 Welcome To My GitHub 👨‍💻
 
-### Languages and Tools
+### Languages And Tools
   <div>
     <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/git/white" />
