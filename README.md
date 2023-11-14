@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋 welcome to my GitHub 👨‍💻
 
-<!--
-**ErlisI/ErlisI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# A little about me
+I am a Computer Science student
 
-Here are some ideas to get you started:
+# Languages and Tools
+  <div>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/git/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/react/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/c++/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/white" />
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# GitHub Stats 📈
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlisi&theme=dark&show_icons=true&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlisi&theme=dark&layout=donut&langs_count=8&hide=html,css,shaderlab&count_private=true)]
+
+# [Daily Stoic Quote](https://stoic-quotes.com)
