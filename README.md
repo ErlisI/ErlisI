@@ -9,7 +9,6 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/white" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/express/white" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/c++/white" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/white" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/white" />
   </div>
